@@ -1,0 +1,12 @@
+img{
+  float: right;
+  margin: 2px;
+  border-block-color: gold;
+  padding: 1px;
+}
+body{
+  margin: 10px;
+  border: 2px solid black;
+  padding: 4px;
+  background-color: goldenrod;
+}

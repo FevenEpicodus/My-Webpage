@@ -10,10 +10,10 @@ This is a webpage that shows how to use HTML, CSS and Git hub
 
 ## Technologies Used
 
-**HTML
-**CSS
-**Bootstrap
-**JavaScript
+** HTML
+** CSS
+** Bootstrap
+** JavaScript
 
 ### License
 

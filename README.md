@@ -1,6 +1,6 @@
 # Feven-Webpage
 
-#### _{Independent Project for Epicodus 08/26/19}_
+#### _Independent Project for Epicodus 08/26/19_
 
 #### By Feven Abebe
 
@@ -17,4 +17,4 @@ This is a webpage that shows how to use HTML, CSS and Git hub
 
 ### License
 
-Copyright (c) 2019 **_{Feven Abebe}_**
+Copyright (c) 2019 **_Feven Abebe_**
